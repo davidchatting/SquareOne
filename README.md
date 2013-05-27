@@ -11,7 +11,7 @@ Operation of the Application
 For all applications detailed here require that a runtime Java environment 
 of at least version 1.1 is installed on the system. For all applications the 
 Jar files, Football.jar and MPEG_Play.jar 
-(http://homepage.mac.com/dave_chatting/CSSE97/FinalProject/code/jars.html) 
+(http://www.davidchatting.com/CSSE97/FinalProject/code/jars.html) 
 should be added to the Java classpath.
 
 The main application allowing the combination of report and video files is 
@@ -39,14 +39,14 @@ Applications demonstrating frame analysis and report parsing are executed
 with the following commands below. Both have the same requirements as the main 
 application, except neither requires QuickTime for Java and so can be run a wider range 
 of platforms. The Frame Analyser is also available as an Applet 
-(http://homepage.mac.com/dave_chatting/CSSE97/FinalProject/code/FrameAnalyserApplet.html).
+(http://www.davidchatting.com/CSSE97/FinalProject/code/FrameAnalyserApplet.html).
 
 java uk.ac.bham.cs.djc.ui.FrameAnalyser
 
 java uk.ac.bham.cs.djc.ui.NewspaperDemo
 
 
-See: http://homepage.mac.com/dave_chatting/CSSE97/FinalProject/code/javadoc/packages.html for 
+See: http://www.davidchatting.com/CSSE97/FinalProject/code/javadoc/packages.html for 
 documentation of classes.
 
 
