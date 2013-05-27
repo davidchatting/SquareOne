@@ -38,8 +38,7 @@ be installed and added to the classpath.
 Applications demonstrating frame analysis and report parsing are executed 
 with the following commands below. Both have the same requirements as the main 
 application, except neither requires QuickTime for Java and so can be run a wider range 
-of platforms. The Frame Analyser is also available as an Applet 
-(http://www.davidchatting.com/CSSE97/FinalProject/code/FrameAnalyserApplet.html).
+of platforms.
 
 java uk.ac.bham.cs.djc.ui.FrameAnalyser
 
