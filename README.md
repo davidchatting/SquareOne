@@ -45,8 +45,5 @@ java uk.ac.bham.cs.djc.ui.FrameAnalyser
 java uk.ac.bham.cs.djc.ui.NewspaperDemo
 
 
-See: http://www.davidchatting.com/CSSE97/FinalProject/code/javadoc/packages.html for 
-documentation of classes.
-
 
 David Chatting - 5th September 2000
